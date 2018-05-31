@@ -1,4 +1,4 @@
-<h1>Рабочий проект находится <a href="http://test.daniill-89.myjino.ru" target="_blank">http://console.daniill-89.myjino.ru/</a></h1>
+<h1>Рабочий проект находится <a href="http://test.daniill-89.myjino.ru" target="_blank">http://test.daniill-89.myjino.ru</a></h1>
 <p>
 	Ссылка на вход в админку
 	<домен>/console
