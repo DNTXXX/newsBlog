@@ -1,0 +1,15 @@
+{
+    "name": "masterzero/yii2-activefield",
+    "description": "Cumstom Yii class ActiveField to work with tinymce, elfinder, and auto translit.",
+    "version": "v1.0.0",
+    "require": {
+        "kartik-v/yii2-icons": "@dev",
+        "zxbodya/yii2-tinymce": "*@dev",
+        "zxbodya/yii2-elfinder": "*@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "masterzero\\activefield\\": ""
+        }
+    }
+}
